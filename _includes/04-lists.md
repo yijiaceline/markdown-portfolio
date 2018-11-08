@@ -1,6 +1,6 @@
 * This is an Emoji list
-  :tomato
-  :cherry
-  :apple
-  :pumpkin
+  :tomato:
+  :cherry:
+  :apple:
+  :pumpkin:
   
